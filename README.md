@@ -22,6 +22,7 @@ http://tuxtweaks.com/2012/10/send-gmail-from-the-linux-command-line/
 </ul>
 <h2>Example Usage</h2>
 <pre>mail -s "Subject" address@example.com < message.txt</pre>
+<p></p>
 <h2>To Do</h2>
 <ul>
 <li>Scrap the configuration include and prompt user for addy, account name, and password (more secure, less configuration). It's not like that now because I'm used to automating and eliminating interactivity.
