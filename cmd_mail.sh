@@ -17,7 +17,7 @@ install ()
 #Update; Install msmtp-mta and heirloom-mailx
 install msmtp-mta heirloom-mailx
 
-cat <<EOD > ~/.msmtprc
+cat <<'EOD' > ~/.msmtprc
 #Gmail account
 defaults
 logfile ~/msmtp.log
