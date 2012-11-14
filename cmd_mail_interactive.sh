@@ -1,4 +1,4 @@
-#!/bin/bash -ex
+#!/bin/bash
 #execute with bash and provide verbose output
 
 #prompt for configuration
