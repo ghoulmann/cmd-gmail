@@ -6,7 +6,7 @@
 http://tuxtweaks.com/2012/10/send-gmail-from-the-linux-command-line/
 <h2>What it Currently Does</h2>
 <ul>
-<li>one of the files is interactive install and config; no editing required.
+<li>cmd_mail_interactive.sh is interactive install and config; no editing required.
 <li>Otherwise, Reads configuration from mail_conf.sh (edit this file to customize, for sure)
 <li>Updates repos
 <li>Installs msmtp-mta & heirloom-mailx from repositiories
